@@ -8,7 +8,7 @@ Este proyecto es un sistema de gestión de empleos que permite a los usuarios bu
 ![Home](screenshots/index.png)
 
 ### Registro de Usuario
-![Registro](screenshots/registroDeUsuarioEs.jpg.png)
+![Registro](screenshots/registroDeUsuarioEs.jpg)
 
 ### Login de Usuario
 ![Login](screenshots/login.jpg)
@@ -66,19 +66,6 @@ Este proyecto es un sistema de gestión de empleos que permite a los usuarios bu
 
 4. **Acceder a la aplicación**
  - Abre tu navegador web y navega a http://localhost/empleos-web-app.
-
-## Estructura de Directorios 
- /Proyecto_Final
-├── /assets
-│   ├── /css
-│   ├── /images
-│   └── /js
-├── /config
-├── /includes
-├── /logic
-├── /pages
-├── /uploads
-└── database.sql
 
 ## Integrantes del Grupo 6
  - Daniel Mancilla
