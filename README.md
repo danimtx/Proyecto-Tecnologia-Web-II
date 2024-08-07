@@ -32,6 +32,10 @@ Este proyecto es un sistema de gestión de empleos que permite a los usuarios bu
 ![Postulaciones](screenshots/postulacionesAdmin.png)
 ![Detalles Postulación](screenshots/examinarPostulacion.png)
 
+##Usuario admin
+user: admin
+password: admin
+
 ## Funcionalidades
 
 ### Para los Usuarios
